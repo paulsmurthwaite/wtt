@@ -1,1 +1,0 @@
-ansible -i ansible-test-hosts.ini lab_targets -m ping
