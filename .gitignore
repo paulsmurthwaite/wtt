@@ -1,0 +1,5 @@
+__pycache__
+requirements.txt
+backup_watt.sh
+archive/
+hosts.ini
