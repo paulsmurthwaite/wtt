@@ -1,6 +1,5 @@
-__pycache__
-/requirements.txt
-/backup_wtt.sh
 /archive/
 /ansible-test-hosts.ini
 /ansible-test.sh
+/backup_wtt.sh
+/requirements.txt
