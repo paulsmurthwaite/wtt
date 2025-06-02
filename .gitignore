@@ -1,5 +1,5 @@
 /archive/
 /ansible-test-hosts.ini
 /ansible-test.sh
-/backup_wtt.sh
+/backup-wtt.sh
 /requirements.txt
